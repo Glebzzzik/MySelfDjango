@@ -1,0 +1,3 @@
+development environment - Pycharm 2022.2.2 (Professional Edition)
+programming language - Python 3.9.7
+web framework - Django 4.1.1
