@@ -1,11 +1,12 @@
 body {
-     background: #DEF7FE;
- }
+    background: #DEF7FE;
+}
 
-.carousel-item{
+.carousel-item {
     height: 500px;
 }
-.carousel-item img{
+
+.carousel-item img {
     height: 500px;
 }
 
@@ -18,4 +19,12 @@ body {
     position: relative;
     left: 280px;
     top: -283px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
 }
